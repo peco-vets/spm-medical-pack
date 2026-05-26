@@ -1,0 +1,44 @@
+{
+  "name": "spm-medical-pack",
+  "owner": {
+    "name": "PECO Dev Team",
+    "email": "dev@peco-japan.com"
+  },
+  "metadata": {
+    "description": "PECO/SPM 医療開発パック — ECC ベースの PECO/SPM 医療事業向けカスタマイズ統合パック"
+  },
+  "plugins": [
+    {
+      "name": "spm-medical-pack",
+      "source": "./",
+      "description": "ECC を土台に PECO/SPM 医療事業向けにカスタマイズした統合パック。日本の医療法令対応の SPM 専用スキル7件 + ECC の汎用エージェント・スキル・コマンドを統合。Japan-only 運用のため国際業務スキルと非日本語ドキュメントは除外。",
+      "version": "0.2.0",
+      "author": {
+        "name": "PECO Dev Team",
+        "email": "dev@peco-japan.com"
+      },
+      "homepage": "https://github.com/peco-japan/spm-medical-pack",
+      "license": "MIT",
+      "keywords": [
+        "japan-medical",
+        "spm",
+        "peco",
+        "veterinary",
+        "healthcare-compliance",
+        "agents",
+        "skills",
+        "hooks",
+        "commands"
+      ],
+      "category": "workflow",
+      "tags": [
+        "japan-medical",
+        "spm-pack",
+        "healthcare",
+        "agents",
+        "skills"
+      ],
+      "strict": false
+    }
+  ]
+}
