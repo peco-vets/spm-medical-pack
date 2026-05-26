@@ -134,7 +134,7 @@ git pull
 
 ## ライセンス・帰属
 
-- 派生版（本プラグイン）: MIT License, Copyright (c) 2026 PECO Dev Team
+- 派生版（本プラグイン）: MIT License, Copyright (c) 2026 ishii-code
 - ベース: [ECC](https://github.com/affaan-m/ECC) by Affaan Mustafa (MIT)
 
 詳細は [README.md](README.md)・[LICENSE](LICENSE)・[CHANGELOG-SPM.md](CHANGELOG-SPM.md) 参照。

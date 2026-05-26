@@ -3,8 +3,8 @@
   "version": "0.2.0",
   "description": "PECO/SPM 医療開発パック — ECC を土台に PECO/SPM 医療事業（動物病院チェーン・将来ヒト医療）向けにカスタマイズした Claude Code 統合プラグイン。日本の医療法・3省2GL・APPI 要配慮個人情報・獣医療法・薬機法 SaMD・電子保存3原則・医療 BCP に対応した7つの SPM 専用スキルを追加。CLAUDE.md 自動アップデート3層フロー (save-rule, distill-recent-session, distill-weekly) 内蔵。全 410 ファイル日本語化完了。Japan-only 運用のため国際業務スキルと非日本語ドキュメントは除外済み。",
   "author": {
-    "name": "PECO Dev Team",
-    "email": "dev@peco-japan.com"
+    "name": "ishii-code",
+    "email": "84655624+ishii-code@users.noreply.github.com"
   },
   "homepage": "https://github.com/peco-japan/spm-medical-pack",
   "repository": "https://github.com/peco-japan/spm-medical-pack",
