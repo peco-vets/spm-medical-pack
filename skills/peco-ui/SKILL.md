@@ -20,7 +20,7 @@ import方法: import { PecoButton, PecoCard, PecoLogo } from "@/components/peco"
 
 色は必ずCSS変数を使うこと。直接カラーコードを書かない。
 
-Primary: --peco-primary: #00B5AD / --peco-primary-dark: #009490
+Primary: --peco-primary: #FCB900 / --peco-primary-dark: #E6A800
 Semantic: --peco-success: #27AE60 / --peco-warning: #F39C12 / --peco-danger: #E74C3C / --peco-info: #2980B9
 Triage: --peco-triage-green: #27AE60 / --peco-triage-yellow: #F39C12 / --peco-triage-red: #E74C3C
 Neutral: --peco-gray-900: #1A1A2E / --peco-gray-500: #6B7280 / --peco-gray-100: #F3F4F6
