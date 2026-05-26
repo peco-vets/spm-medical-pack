@@ -60,3 +60,13 @@ peco-ui リポジトリの public/ に格納済み：
 新規プロジェクトへの導入：
 cp ~/workspace/peco-ui/public/Group.png public/logo.png
 cp ~/workspace/peco-ui/public/Group_square\ \(2\).png public/logo-square.png
+
+## ロゴサイズ規定
+
+標準サイズは height: 20px を基本とする（旧: 28px）。
+
+| サイズ | height | 用途 |
+|---|---|---|
+| sm | 16px | フッター・小スペース |
+| md（標準） | 20px | ヘッダー・ナビゲーション |
+| lg | 28px | ランディングページ・大見出し |
